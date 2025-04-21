@@ -1,46 +1,48 @@
-from pathlib import Path
+<h1 align="center">✨ Yvonne Arteaga ✨</h1>
+<p align="center"><strong>Cybersecurity grad • Gamer girl • Engineer-minded • Glitter soul</strong></p>
+<p align="center">🐷 I love pigs, pink, puzzles, and playing block games on my phone! 📱<br>
+🎮 Exploring cybersecurity, engineering, and all things tech.</p>
 
-# Define a custom, human-style GitHub README content
-readme_content = """
-# 👩‍💻 Yvonne Arteaga | Cybersecurity Enthusiast with an Engineer's Mind
-
-![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yvonne%20Arteaga%20💻&fontSize=30&fontAlignY=40&desc=Cybersecurity%20%7C%20Networking%20%7C%20Engineer-Minded%20Creative&descAlignY=60)
-
-## 🌟 About Me
-
-Hi, I’m Yvonne — a recent Cybersecurity graduate with a passion for protecting people, playing phone games, and solving real-world problems. I enjoy building things, both virtually and technically. My interests include digital forensics, networking, and creative engineering projects.
-
-## 🚀 What I Love
-- 🧩 Phone games that challenge my brain (building block type!)
-- 💡 Thinking like an engineer — problem-solving is my jam
-- 🌐 Networking and securing digital systems
-- 🐷 Collecting pig-themed stuff (yes, really!)
-- 🎀 Mixing girl power with technical skills
-
-## 🔧 Projects
-- [Fuel Efficiency Calculator](https://github.com/Yvonne-Arteaga-Cyber/Fuel-Efficiency-Calculator): Simple Python script for MPG tracking
-- [Network Traffic Analyzer](https://github.com/Yvonne-Arteaga-Cyber/Network-Traffic-Analyzer): A Wireshark + Python combo to examine packet data
-- More projects coming soon! I’m organizing and adding previous coursework too.
-
-## 🧠 Skills
-`Python` | `SQL` | `Linux` | `Wireshark` | `FTK Imager` | `VMware` | `Networking Fundamentals` | `Microsoft Office Suite`
-
-## 💖 Fun Extras
-![PIGGY Badge](https://img.shields.io/badge/I%20Love-PIGS-pink)
-![Cyber Nerd](https://img.shields.io/badge/Cyber-Nerd-blueviolet)
-![Engineer Mind](https://img.shields.io/badge/Mindset-Engineer-orange)
-![Networking](https://img.shields.io/badge/Networking-Enthusiast-informational)
-![Gamer](https://img.shields.io/badge/Phone-Gamer-lightgrey)
 
 ---
 
-📫 Let’s connect: [My LinkedIn](https://www.linkedin.com/in/yvonnearteaga/)  
-🎮 Fun fact: I’m still undecided on ethical hacking… but curious!
+### 🩷 About Me
 
-"""
+- 🎓 Bachelor’s in Cybersecurity | ISC2 Certified  
+- 🧠 I love talking security, networks, and Python projects  
+- 🔐 Interested in forensics, incident response, and cloud tools  
+- 🎮 Always gaming (mostly chill phone games like block puzzles)  
+- 💡 Engineer-minded, creative, and *curious about hacking* (but not sure yet!)
 
-# Save to a README.md file
-readme_path = Path("/mnt/data/README.md")
-readme_path.write_text(readme_content)
+---
 
-readme_path.name
+### 🛠️ My Favorite Tools & Languages
+
+![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-e75480?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ffc0cb?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-fbaed2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-d291bc?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-e3a1c0?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 💻 My Projects
+
+- 🐷 **Fuel Efficiency Calculator** – Python CLI for tracking MPG on road trips  
+- 📡 **Network Traffic Analyzer** – Captured and analyzed packets with Wireshark  
+- 🐍 **Log Analyzer (Python)** – Read, parsed, and flagged anomalies in logs  
+- 🗃️ **SQL Security DB** – Built a database for storing and querying log entries  
+
+---
+
+### 🌐 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YvonneArteaga-ff69b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvonne-arteaga-85ba28b225)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-e75480?style=flat-square&logo=github&logoColor=white)](https://github.com/Yvonne-Arteaga-Cyber)
+
+---
+
+<p align="center">
+  💖 Made with love, glitter, coffee, and curiosity 💖
+</p>
