@@ -1,31 +1,46 @@
-### Hi there, I'm Yvonne 👩‍💻
-Passionate about cybersecurity, forensics, and learning new tech skills every day. Exploring the world of digital protection, Python scripting, and network analysis.
+from pathlib import Path
+
+# Define a custom, human-style GitHub README content
+readme_content = """
+# 👩‍💻 Yvonne Arteaga | Cybersecurity Enthusiast with an Engineer's Mind
+
+![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yvonne%20Arteaga%20💻&fontSize=30&fontAlignY=40&desc=Cybersecurity%20%7C%20Networking%20%7C%20Engineer-Minded%20Creative&descAlignY=60)
+
+## 🌟 About Me
+
+Hi, I’m Yvonne — a recent Cybersecurity graduate with a passion for protecting people, playing phone games, and solving real-world problems. I enjoy building things, both virtually and technically. My interests include digital forensics, networking, and creative engineering projects.
+
+## 🚀 What I Love
+- 🧩 Phone games that challenge my brain (building block type!)
+- 💡 Thinking like an engineer — problem-solving is my jam
+- 🌐 Networking and securing digital systems
+- 🐷 Collecting pig-themed stuff (yes, really!)
+- 🎀 Mixing girl power with technical skills
+
+## 🔧 Projects
+- [Fuel Efficiency Calculator](https://github.com/Yvonne-Arteaga-Cyber/Fuel-Efficiency-Calculator): Simple Python script for MPG tracking
+- [Network Traffic Analyzer](https://github.com/Yvonne-Arteaga-Cyber/Network-Traffic-Analyzer): A Wireshark + Python combo to examine packet data
+- More projects coming soon! I’m organizing and adding previous coursework too.
+
+## 🧠 Skills
+`Python` | `SQL` | `Linux` | `Wireshark` | `FTK Imager` | `VMware` | `Networking Fundamentals` | `Microsoft Office Suite`
+
+## 💖 Fun Extras
+![PIGGY Badge](https://img.shields.io/badge/I%20Love-PIGS-pink)
+![Cyber Nerd](https://img.shields.io/badge/Cyber-Nerd-blueviolet)
+![Engineer Mind](https://img.shields.io/badge/Mindset-Engineer-orange)
+![Networking](https://img.shields.io/badge/Networking-Enthusiast-informational)
+![Gamer](https://img.shields.io/badge/Phone-Gamer-lightgrey)
 
 ---
 
-#### 🛡️ My Interests
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Active-green)
-![Forensics](https://img.shields.io/badge/Digital_Forensics-blueviolet)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-CCNA-important)
+📫 Let’s connect: [My LinkedIn](https://www.linkedin.com/in/yvonnearteaga/)  
+🎮 Fun fact: I’m still undecided on ethical hacking… but curious!
 
----
+"""
 
-#### 🧰 Tools & Platforms
-![Wireshark](https://img.shields.io/badge/Wireshark-Tool-blue)
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-Used-lightgrey)
-![Autopsy](https://img.shields.io/badge/Autopsy-Tool-informational)
-![SQL](https://img.shields.io/badge/SQL-Used-orange)
-![VMware](https://img.shields.io/badge/VMware-Workstation-yellowgreen)
+# Save to a README.md file
+readme_path = Path("/mnt/data/README.md")
+readme_path.write_text(readme_content)
 
----
-
-#### 🎓 Certifications
-![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2_Certified-Yes-blueviolet)
-![AI Certification](https://img.shields.io/badge/AI_Certified-Yes-pink)
-
----
-
-#### 💻 Projects
-Check out my latest GitHub projects below ⬇️
+readme_path.name
