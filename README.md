@@ -1,17 +1,31 @@
-# 👋 Hi, I'm Yvonne Arteaga
+### Hi there, I'm Yvonne 👩‍💻
+Passionate about cybersecurity, forensics, and learning new tech skills every day. Exploring the world of digital protection, Python scripting, and network analysis.
 
-🔐 I’m a recent B.S. Cybersecurity graduate with a love for digital forensics, Python scripting, and network security.
+---
 
-💻 I’m currently working on hands-on projects like log analysis, threat detection, and automating network traffic analysis with Wireshark.
+#### 🛡️ My Interests
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Active-green)
+![Forensics](https://img.shields.io/badge/Digital_Forensics-blueviolet)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-CCNA-important)
 
-🌐 I’m also interested in networking and security engineering and am excited to grow in areas like infrastructure protection, configuration, and network defense.
+---
 
-🌱 Always learning—especially in cloud security, incident response, and secure coding practices.
+#### 🧰 Tools & Platforms
+![Wireshark](https://img.shields.io/badge/Wireshark-Tool-blue)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-Used-lightgrey)
+![Autopsy](https://img.shields.io/badge/Autopsy-Tool-informational)
+![SQL](https://img.shields.io/badge/SQL-Used-orange)
+![VMware](https://img.shields.io/badge/VMware-Workstation-yellowgreen)
 
-📚 Currently building out my GitHub with class-based and personal cybersecurity projects.
+---
 
-🎯 Looking to grow into a cyber defense, analyst, or network security engineering role where I can continue to learn and protect people in a meaningful way.
+#### 🎓 Certifications
+![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2_Certified-Yes-blueviolet)
+![AI Certification](https://img.shields.io/badge/AI_Certified-Yes-pink)
 
-📫 You can reach me at: arteaga.yvonne88@gmail.com
+---
 
-✨ Fun fact: I left UPS after 18 years to chase this dream and I’m just getting started!
+#### 💻 Projects
+Check out my latest GitHub projects below ⬇️
