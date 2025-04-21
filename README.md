@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=FF69B4&width=435&lines=Hi!+I'm+Yvonne+Arteaga;Cybersecurity+Engineer+%7C+Gamer+%7C+Creative+Mind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&color=FF69B4&width=500&lines=Hello+I+am+Yvonne+Arteaga" alt="Typing SVG" />
 </p>
+
 
 <p align="center"><strong>Cybersecurity grad • Gamer girl • Engineer-minded • Glitter soul</strong></p>
 <p align="center">🐷 I love pigs, pink, puzzles, and playing block games on my phone! 📱<br>
