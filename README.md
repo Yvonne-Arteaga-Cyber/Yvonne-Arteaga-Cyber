@@ -39,7 +39,7 @@
 ### 💻 My Projects
 
 - 🐷 **Fuel Efficiency Calculator** – Python CLI for tracking MPG on road trips
-- 🧪 Smart Incident Triage Tool – Ran SHA256 checks, YARA scans, and logged findings for forensic triage  
+- 🧪 **Smart Incident Triage Tool** – Ran SHA256 checks, YARA scans, and logged findings for forensic triage
 - 📡 **Network Traffic Analyzer** – Captured and analyzed packets with Wireshark  
 - 🐍 **Log Analyzer (Python)** – Read, parsed, and flagged anomalies in logs  
 - 🗃️ **SQL Security DB** – Built a database for storing and querying log entries  
