@@ -25,6 +25,7 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![YARA](https://img.shields.io/badge/YARA-800080?style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![FTK Imager](https://img.shields.io/badge/FTK_Imager-FF69B4?style=for-the-badge)
 ![Autopsy](https://img.shields.io/badge/Autopsy-800080?style=for-the-badge)
@@ -37,7 +38,8 @@
 
 ### 💻 My Projects
 
-- 🐷 **Fuel Efficiency Calculator** – Python CLI for tracking MPG on road trips  
+- 🐷 **Fuel Efficiency Calculator** – Python CLI for tracking MPG on road trips
+- 🧪 Smart Incident Triage Tool – Ran SHA256 checks, YARA scans, and logged findings for forensic triage  
 - 📡 **Network Traffic Analyzer** – Captured and analyzed packets with Wireshark  
 - 🐍 **Log Analyzer (Python)** – Read, parsed, and flagged anomalies in logs  
 - 🗃️ **SQL Security DB** – Built a database for storing and querying log entries  
